@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C8AA1D7E-54F9-4F35-AD62-4FC4271C07DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.MauiDispatcherTest PreferredExecutionTarget="Android.pixel_5_-_api_29" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.79" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MauiDispatcherTest/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiDispatcherTest" expanded="True">
+            <Node name="MauiDispatcherTest" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

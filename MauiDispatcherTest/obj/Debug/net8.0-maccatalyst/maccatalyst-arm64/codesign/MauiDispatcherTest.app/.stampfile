@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/aid/RiderProjects/MauiDispatcherTest/MauiDispatcherTest/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/aid/RiderProjects/MauiDispatcherTest/MauiDispatcherTest/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiDispatcherTest.app
